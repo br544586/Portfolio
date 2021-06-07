@@ -1,0 +1,41 @@
+html {
+	width:  100%;
+	height: 100%;
+}
+
+/*  HEADER */
+
+.profile {
+	width:  30%;
+	height: 30%;
+	padding: 10px;
+}
+
+.profile:hover {
+	transform: scale(1.1);	
+}
+
+/*  CONTENT */
+
+h1 {
+	text-align: center;
+}
+
+.aboutme {
+	margin-top: 2rem;
+}
+
+.card {
+	background-color: #3D6E61;
+	color: #FFFFFF;
+}
+
+.btn-primary {
+	background-color: #004733;
+	border-color: #004733;
+}
+
+.btn-primary:hover {
+	background-color: #00674B;
+	border-color: #00674B;
+}
